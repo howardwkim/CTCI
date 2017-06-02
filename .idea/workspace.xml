@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f18514e-763c-4f7d-a09f-691515dd90f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Int_to_binary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/p4_next_number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/p6_conversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/p7_pairwise_swap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter8_Recursion_Dynamic_Programming/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter8_Recursion_Dynamic_Programming/p5_recursive_multiply.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_stacks_queues/4_queueViaStack.py" afterPath="$PROJECT_DIR$/Chapter3_Stacks_And_Queues/p4_queue_via_stack.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/8_recursions_dynamic_programming/1_triple_step.py" afterPath="$PROJECT_DIR$/Chapter8_Recursion_Dynamic_Programming/p1_triple_step.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/8_recursions_dynamic_programming/3_magic_integer.py" afterPath="$PROJECT_DIR$/Chapter8_Recursion_Dynamic_Programming/p3_magic_integer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chap5BitManipulation/p1.py" afterPath="$PROJECT_DIR$/Chapter8_Recursion_Dynamic_Programming/p4_powerset.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/Graph.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/Graph.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/TestGraphsAndTree.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/TestGraphsAndTree.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/Tree.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/Tree.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/__init__.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/checkSubtree.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/checkSubtree.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/p4_check_balanced.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p4_check_balanced.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/p5_validate_BST.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p5_validate_BST.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/p6_successor.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p6_successor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/p7_build_order.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p7_build_order.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter4TreesAndGraphs/test.py" afterPath="$PROJECT_DIR$/Chapter4_Trees_And_Graphs/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/jb_10000_Original.tsv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/userAgent.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,16 +17,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p7_build_order.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p7_build_order.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="p5_validate_BST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter4_Trees_And_Graphs/p5_validate_BST.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,8 +62,8 @@
       <file leaf-file-name="p7_pairwise_swap.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/p7_pairwise_swap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,7 +143,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/3_stacks_queues/4_queueViaStack.py" />
-        <option value="$PROJECT_DIR$/misc/userAgent.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/8_recursions_dynamic_programming/1_triple_step.py" />
         <option value="$PROJECT_DIR$/8_recursions_dynamic_programming/3_magic_integer.py" />
@@ -197,6 +169,7 @@
         <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/p6_conversion.py" />
         <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Int_to_binary.py" />
         <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/p7_pairwise_swap.py" />
+        <option value="$PROJECT_DIR$/misc/userAgent.py" />
       </list>
     </option>
   </component>
@@ -818,13 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/misc/userAgent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="145" lean-forward="false" selection-start-line="5" selection-start-column="136" selection-end-line="5" selection-end-column="145" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1065,10 +1031,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/misc/userAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/p7_pairwise_swap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
