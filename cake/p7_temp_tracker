@@ -1,0 +1,8 @@
+import sys
+print -sys.maxint - 1
+
+print float('inf')
+print float('-inf')
+
+if 1 > float('inf'):
+    print True

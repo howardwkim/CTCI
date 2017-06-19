@@ -1,3 +1,44 @@
+def powerset(nums):
+    power_set = [[]]
+    for num in nums:
+        temp_set = []
+        for member in power_set:
+            if member == None:
+
+                test = member.append(num)
+            temp_set.append(test)
+        power_set.extend(temp_set)
+    return power_set
+
+print powerset([1,2,3,4])
+
+# def powerset(input_set):
+#     power_set = set()
+#     for input in input_set:
+#         temp_set = set()
+#         # print "temp: ", temp_set
+#         # print "power: ", power_set
+#         for member in power_set:
+#             if isinstance(member, int):
+#                 temp_set.add(member)
+#             else:
+#                 temp_set.update(member)
+#         temp_set.add(input)
+#         print power_set
+#         power_set.update(temp_set)
+#
+#     return power_set
+#
+# print powerset(set([1,2,3,4]))
+
+
+# a = set()
+# b = {2,3,4,5}
+# temp = set()
+# for test in a | b:
+#     temp.add(test)
+# print temp
+
 # def powerSet(inputSet):
 #     finalPowerSet = cloneSet = set(set())
 #     for num in inputSet:
@@ -9,17 +50,6 @@
 #     return finalPowerSet
 #
 # print powerSet(set([1,2,3]))
-
-
-
-liar = set([(2,3,4), (3,4,5)])
-print liar
-twoface = set()
-print twoface
-testSet = set(liar)
-print testSet
-testSet.add(1)
-print testSet
 
 
 # class Tests(unittest.TestCase):

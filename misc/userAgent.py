@@ -9,5 +9,5 @@ s3 = "0285ca63-6b9f-4d88-8c12-c169b4e54035\tcom.brein.api.servlet.DispatcherServ
 
 
 def grabUserAgent(string):
-
+a
 print grabUserAgent(s1)
